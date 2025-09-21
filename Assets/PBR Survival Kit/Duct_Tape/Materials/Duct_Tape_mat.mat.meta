@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 5cd649a617f395c46b3bd3269f6ad178
+timeCreated: 1488466990
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 89180
+  packageName: Survival Kit Pro
+  packageVersion: 1.1
+  assetPath: Assets/PBR Survival Kit/Duct_Tape/Materials/Duct_Tape_mat.mat
+  uploadId: 197460

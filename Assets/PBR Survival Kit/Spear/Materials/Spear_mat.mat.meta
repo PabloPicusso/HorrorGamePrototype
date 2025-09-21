@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 557beecb268cd2445a30145235832026
+timeCreated: 1489679520
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 89180
+  packageName: Survival Kit Pro
+  packageVersion: 1.1
+  assetPath: Assets/PBR Survival Kit/Spear/Materials/Spear_mat.mat
+  uploadId: 197460

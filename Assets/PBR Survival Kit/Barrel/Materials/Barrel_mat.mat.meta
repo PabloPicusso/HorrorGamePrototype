@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 749064df25c1dd44686d9cc62192beb3
+timeCreated: 1490204019
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 89180
+  packageName: Survival Kit Pro
+  packageVersion: 1.1
+  assetPath: Assets/PBR Survival Kit/Barrel/Materials/Barrel_mat.mat
+  uploadId: 197460

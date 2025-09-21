@@ -1,0 +1,2582 @@
+fileFormatVersion: 2
+guid: f4e7de633b825574aa13118c173e2baf
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: scanlines_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1069
+        width: 1920
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6701179c020516341ad36de9fb9ad32a
+      internalID: 1580588164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scanlines_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1059
+        width: 1920
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4af855905e8a53c40ae0bc152d5a2888
+      internalID: -309195157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scanlines_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1049
+        width: 1920
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d632df7297135d458a4cb367f502e1e
+      internalID: 793199993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scanlines_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1039
+        width: 1920
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecd65f623ad265346af800481431ee84
+      internalID: -209420214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scanlines_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1029
+        width: 1920
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec3d1bdde2f16dc4b8879793e1bd257a
+      internalID: 865272521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scanlines_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1019
+        width: 1920
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d1bc7a676715b843ac3bc70de8ec4d5
+      internalID: 1371178489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scanlines_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1009
+        width: 1920
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e27a9e9da243ce741afe9fdb237d8ab4
+      internalID: -1533944901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scanlines_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 999
+        width: 1920
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56d466d1c15859d40abbebd73f6f63a8
+      internalID: -1959177706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scanlines_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 989
+        width: 1920
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba48a3e3cb34c84498b03513dc95c52f
+      internalID: 455853227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scanlines_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 979
+        width: 1920
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ffbbc1f8a08f2741b5165a4b509b555
+      internalID: -885714312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scanlines_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 969
+        width: 1920
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f05d31477e49174c887a86e6fd14c9b
+      internalID: -626584985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scanlines_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 959
+        width: 1920
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46890368a0fad754fb6d7083b74f60d5
+      internalID: 1382965278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scanlines_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 949
+        width: 1920
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57bd215e91cfb864797e984cbfd0587f
+      internalID: -1535720920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scanlines_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 939
+        width: 1920
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33db9a40daadbcf4da3dcb54918b9d79
+      internalID: 683722442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scanlines_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 929
+        width: 1920
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed294a41dda9b6246be2ecb448e09e42
+      internalID: 340130257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scanlines_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 919
+        width: 1920
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94339b88f3ae4a2489851ed0540b025f
+      internalID: 1649571095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scanlines_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 909
+        width: 1920
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e4ec174ee2aeb94f8710e29309a0d83
+      internalID: -202290415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scanlines_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 899
+        width: 1920
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1941fa6c94bbfe48afd58830d4af800
+      internalID: 2098463638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scanlines_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 889
+        width: 1920
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d0070b38699b98418931e5e5854d50e
+      internalID: 760530102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scanlines_19
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 879
+        width: 1920
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed912ee277d63b748967897e46bd56f6
+      internalID: 455122629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scanlines_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 869
+        width: 1920
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 283c735a5601fbf4d9d40fa86a30318f
+      internalID: 687905968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scanlines_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 859
+        width: 1920
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de89f379160309743a849c49a54107d4
+      internalID: -1974983755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scanlines_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 849
+        width: 1920
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5522fc01af46ede49bcf322da343ef03
+      internalID: -1107356380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scanlines_23
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 839
+        width: 1920
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e8f990ba1e3dec4daa4c219eeda950c
+      internalID: -2099370831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scanlines_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 829
+        width: 1920
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc4760c3b847f014ca46b6230337a873
+      internalID: -404204946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scanlines_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 819
+        width: 1920
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19d542a1a1507db4bb8cc56181e10eff
+      internalID: -807180360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scanlines_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 809
+        width: 1920
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 405df1c52ea1818458d71c3c61f48cae
+      internalID: -1151857399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scanlines_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 799
+        width: 1920
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 785bd84a203e1de45af7888069ea5945
+      internalID: -1568584010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scanlines_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 789
+        width: 1920
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7445963a17c53b4cbd47c9dfc9ec156
+      internalID: 661873919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scanlines_29
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 779
+        width: 1920
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76e29beb3ee13e64aaa054f1a1b2aa47
+      internalID: 872527280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scanlines_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 769
+        width: 1920
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a1e8ea7f84894743b3890b54b2bda81
+      internalID: 960363225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scanlines_31
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 759
+        width: 1920
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b17c22a55409f845a44f665f72bd479
+      internalID: -1524060415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scanlines_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 749
+        width: 1920
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8093cd65478f024b9319ea04531744a
+      internalID: -1276406801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scanlines_33
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 739
+        width: 1920
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b70eea4447a04b944af71fc08304b8f5
+      internalID: 1995649751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scanlines_34
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 729
+        width: 1920
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6122cbb181b9f664683b187cb623cd12
+      internalID: -785951933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scanlines_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 719
+        width: 1920
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b4b14d6252955544981dd6082e68348
+      internalID: -639892829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scanlines_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 709
+        width: 1920
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7b65a384d36b3f46ac2b746c59db18b
+      internalID: -995375910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scanlines_37
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 699
+        width: 1920
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe0653afbe60b564cb2869b8f74669f8
+      internalID: -1804437381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scanlines_38
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 689
+        width: 1920
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7aa2194048bc8eb48b531681531020d3
+      internalID: -879714438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scanlines_39
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 679
+        width: 1920
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1714bf03b30b49846919cf8b5b1cc2b8
+      internalID: 581399373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scanlines_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 669
+        width: 1920
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9f4b9b9f11ae58498df488bf643bc98
+      internalID: 487609306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scanlines_41
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 659
+        width: 1920
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12bc9088ee8a59545913f61f11224ffb
+      internalID: -1344780709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scanlines_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 649
+        width: 1920
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44255a60b975fb342b19285df747e862
+      internalID: 1220759842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scanlines_43
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 639
+        width: 1920
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 316ad9c5093333b4a818cc92331a46ec
+      internalID: -795777970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scanlines_44
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 629
+        width: 1920
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf53042479f9c49438c124d46c18d42e
+      internalID: -1161697494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scanlines_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 619
+        width: 1920
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb34e6e6b3810ea44b086532c47010b5
+      internalID: 691513184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scanlines_46
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 609
+        width: 1920
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6483e45d784eee646bd7a2fb4c0b38d4
+      internalID: 403621667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scanlines_47
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 599
+        width: 1920
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c1a42bd22e72094eb87246ffe59c2e7
+      internalID: -1684900863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scanlines_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 589
+        width: 1920
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d855b56b832b5bb44b2e2804e78d3d4f
+      internalID: 1541039531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scanlines_49
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 579
+        width: 1920
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dab7d744856d7584f82f503cd927868e
+      internalID: -1880670153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scanlines_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 569
+        width: 1920
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55dd32145b12b8a4ab9cb01db360f89a
+      internalID: 499990765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scanlines_51
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 559
+        width: 1920
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d320ddb59954b8546b379ef28a4f3a86
+      internalID: 772278422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scanlines_52
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 549
+        width: 1920
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bb9d4ec8e430794ba2a6fe61ca5e053
+      internalID: -420939459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scanlines_53
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 539
+        width: 1920
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7e181c713308a5458028a720442b509
+      internalID: -1564682538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scanlines_54
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 529
+        width: 1920
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b01799523237b14e8d4c273cd055b2d
+      internalID: -577142795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scanlines_55
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 519
+        width: 1920
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee25cf0e1194bf14cbfa83e10deff3e1
+      internalID: 1359839339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scanlines_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 509
+        width: 1920
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98d63ab944d29474a9846e1c96f5f6c3
+      internalID: -1150424622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scanlines_57
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 499
+        width: 1920
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64045bd9f8932c0488c19af499045ca4
+      internalID: -967508648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scanlines_58
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 489
+        width: 1920
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8086f5e8b0377fc4b86e1d968b57fae8
+      internalID: 17246500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scanlines_59
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 479
+        width: 1920
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfc9e1032eb41c941866b1b91fd415c3
+      internalID: -700923238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scanlines_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 469
+        width: 1920
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d865ab47bec2aad4ebb017ca20d3ac9f
+      internalID: 1990587286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scanlines_61
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 459
+        width: 1920
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42625912d629b514ca3c144c3d27d17c
+      internalID: 169009638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scanlines_62
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 449
+        width: 1920
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c25c9c81b8567841a900e94b70ec555
+      internalID: -1339138577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scanlines_63
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 439
+        width: 1920
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82083c80811a29b4ea948f4d6c75cf74
+      internalID: 923527840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scanlines_64
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 429
+        width: 1920
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba4fe365faa9faf4c843a6d52577ba19
+      internalID: 1998406862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scanlines_65
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 419
+        width: 1920
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f44d2aaa452e7e42819ccfde012d30f
+      internalID: -492426537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scanlines_66
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 409
+        width: 1920
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7564dc8ef9a2a74287bd4d4135f2851
+      internalID: -741781218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scanlines_67
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 399
+        width: 1920
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 931a5517f377c714886fd09642e56cb9
+      internalID: 989835638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scanlines_68
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 389
+        width: 1920
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 562cf517d647c144badb80e42f686f1b
+      internalID: -269260551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scanlines_69
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 379
+        width: 1920
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87fffa4766857e347a480710736f97f1
+      internalID: 802286970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scanlines_70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 369
+        width: 1920
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d0b5c00d93d82d439e7d1244ca02158
+      internalID: -2036983117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scanlines_71
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 359
+        width: 1920
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 976b6d5c822e086488912c7ed0594c0b
+      internalID: 767346208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scanlines_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 349
+        width: 1920
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c779bfb0cec6814c9852668b5fb3cdb
+      internalID: -1575843143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scanlines_73
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 339
+        width: 1920
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e52f04ab1962bde48964061e93bc6710
+      internalID: 494353518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scanlines_74
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 329
+        width: 1920
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f89ac18263bb92b4ca8138ce0f782e2f
+      internalID: 1779277769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scanlines_75
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 319
+        width: 1920
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24e1df6b2172f8541a8c5f4df077f499
+      internalID: 2140470522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scanlines_76
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 309
+        width: 1920
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83e2b291d43dcd54fa2265c1e3fc5731
+      internalID: 2106290584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scanlines_77
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 299
+        width: 1920
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4f3baa47201c304aacb3483621d3b33
+      internalID: 763739996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scanlines_78
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 289
+        width: 1920
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 384be06d4553e4b4bb4a55c3a74a6232
+      internalID: -1997215354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scanlines_79
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 279
+        width: 1920
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c84f3949405198945b68b477c7ca7fea
+      internalID: -801135147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scanlines_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 269
+        width: 1920
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78d0483a14b0a1542b524e4da18cb4d0
+      internalID: 1310839674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scanlines_81
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 259
+        width: 1920
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c052423da6fdaf543a9bb166b6015d26
+      internalID: 1706477266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scanlines_82
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 249
+        width: 1920
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2f43bdab7ab2e64f875b75abcd7c789
+      internalID: 636471375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scanlines_83
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 239
+        width: 1920
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45781664cda8c4b41ada352f8d84cd3e
+      internalID: 1459924253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scanlines_84
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 229
+        width: 1920
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9186035ffc287d2479337f3c757812c9
+      internalID: 1086619590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scanlines_85
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 219
+        width: 1920
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1211acbd775a42c4c93b7d4ed23c7a41
+      internalID: 597138331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scanlines_86
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 209
+        width: 1920
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13e5c81bce9ffcd40a7d3472770fe923
+      internalID: -1243592402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scanlines_87
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 199
+        width: 1920
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83af7147b08daff41bad56fd670f21fb
+      internalID: 2093156536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scanlines_88
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 189
+        width: 1920
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 720214fe7ce2d2f4380abf3907859c45
+      internalID: 1581996083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scanlines_89
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 179
+        width: 1920
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90c37226572d4d746b238c971aeb8fad
+      internalID: 485421087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scanlines_90
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 169
+        width: 1920
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 469aeca574f326a4487cf04836f5da5d
+      internalID: -133079948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scanlines_91
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 159
+        width: 1920
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d6b68cacdf9a604ba5e700262a813e9
+      internalID: -62339886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scanlines_92
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 149
+        width: 1920
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa2f33afee7965148a08d44c31ef6fc9
+      internalID: 1021079454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scanlines_93
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 139
+        width: 1920
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d56cdcc0b9c888c49b57a638918354ae
+      internalID: -613997762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scanlines_94
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 129
+        width: 1920
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 647a54cb17b6372448d5efe2596f8e5e
+      internalID: 784549790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scanlines_95
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 119
+        width: 1920
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a181f929dd3b9804684b3f68539c0221
+      internalID: 404111924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scanlines_96
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 109
+        width: 1920
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 262a599b04883b54eb02dccc9af505eb
+      internalID: 1611637493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scanlines_97
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 99
+        width: 1920
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c073ccd420b65294384bc342f5ab55a7
+      internalID: -1731587298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scanlines_98
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 89
+        width: 1920
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f833816be1fa8e418683f903b32554c
+      internalID: -338909344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scanlines_99
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 79
+        width: 1920
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec7dfeb5dc637d5419a98057cf4630cb
+      internalID: 490516842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scanlines_100
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 69
+        width: 1920
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 790248384ad7bb24ba646b559cedbe67
+      internalID: 1127197057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scanlines_101
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 59
+        width: 1920
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d883d0f2c64dcf4088cf0bff123f397
+      internalID: 45838441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scanlines_102
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 49
+        width: 1920
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18d5c20a27f5b914ab61382856eb5a9d
+      internalID: 518841168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scanlines_103
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 39
+        width: 1920
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad5f9b2cd838ad34bbb1e763eb0616a7
+      internalID: -1028003914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scanlines_104
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 29
+        width: 1920
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1294e0f0ee74b6041bace9ed4a14bb17
+      internalID: 1310174074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scanlines_105
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 19
+        width: 1920
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3dc723d87fb1b14db0584cac571d6dd
+      internalID: -1178155188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scanlines_106
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1920
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0979ba1444f2a3949a097f80b19253a0
+      internalID: -262474414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: cc3fb9991010a4143a68e39fb21b1d28
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":true,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+      - key: SpriteEditor.SliceOnImport
+        value: True
+    nameFileIdTable:
+      scanlines_0: 1580588164
+      scanlines_1: -309195157
+      scanlines_10: -626584985
+      scanlines_100: 1127197057
+      scanlines_101: 45838441
+      scanlines_102: 518841168
+      scanlines_103: -1028003914
+      scanlines_104: 1310174074
+      scanlines_105: -1178155188
+      scanlines_106: -262474414
+      scanlines_11: 1382965278
+      scanlines_12: -1535720920
+      scanlines_13: 683722442
+      scanlines_14: 340130257
+      scanlines_15: 1649571095
+      scanlines_16: -202290415
+      scanlines_17: 2098463638
+      scanlines_18: 760530102
+      scanlines_19: 455122629
+      scanlines_2: 793199993
+      scanlines_20: 687905968
+      scanlines_21: -1974983755
+      scanlines_22: -1107356380
+      scanlines_23: -2099370831
+      scanlines_24: -404204946
+      scanlines_25: -807180360
+      scanlines_26: -1151857399
+      scanlines_27: -1568584010
+      scanlines_28: 661873919
+      scanlines_29: 872527280
+      scanlines_3: -209420214
+      scanlines_30: 960363225
+      scanlines_31: -1524060415
+      scanlines_32: -1276406801
+      scanlines_33: 1995649751
+      scanlines_34: -785951933
+      scanlines_35: -639892829
+      scanlines_36: -995375910
+      scanlines_37: -1804437381
+      scanlines_38: -879714438
+      scanlines_39: 581399373
+      scanlines_4: 865272521
+      scanlines_40: 487609306
+      scanlines_41: -1344780709
+      scanlines_42: 1220759842
+      scanlines_43: -795777970
+      scanlines_44: -1161697494
+      scanlines_45: 691513184
+      scanlines_46: 403621667
+      scanlines_47: -1684900863
+      scanlines_48: 1541039531
+      scanlines_49: -1880670153
+      scanlines_5: 1371178489
+      scanlines_50: 499990765
+      scanlines_51: 772278422
+      scanlines_52: -420939459
+      scanlines_53: -1564682538
+      scanlines_54: -577142795
+      scanlines_55: 1359839339
+      scanlines_56: -1150424622
+      scanlines_57: -967508648
+      scanlines_58: 17246500
+      scanlines_59: -700923238
+      scanlines_6: -1533944901
+      scanlines_60: 1990587286
+      scanlines_61: 169009638
+      scanlines_62: -1339138577
+      scanlines_63: 923527840
+      scanlines_64: 1998406862
+      scanlines_65: -492426537
+      scanlines_66: -741781218
+      scanlines_67: 989835638
+      scanlines_68: -269260551
+      scanlines_69: 802286970
+      scanlines_7: -1959177706
+      scanlines_70: -2036983117
+      scanlines_71: 767346208
+      scanlines_72: -1575843143
+      scanlines_73: 494353518
+      scanlines_74: 1779277769
+      scanlines_75: 2140470522
+      scanlines_76: 2106290584
+      scanlines_77: 763739996
+      scanlines_78: -1997215354
+      scanlines_79: -801135147
+      scanlines_8: 455853227
+      scanlines_80: 1310839674
+      scanlines_81: 1706477266
+      scanlines_82: 636471375
+      scanlines_83: 1459924253
+      scanlines_84: 1086619590
+      scanlines_85: 597138331
+      scanlines_86: -1243592402
+      scanlines_87: 2093156536
+      scanlines_88: 1581996083
+      scanlines_89: 485421087
+      scanlines_9: -885714312
+      scanlines_90: -133079948
+      scanlines_91: -62339886
+      scanlines_92: 1021079454
+      scanlines_93: -613997762
+      scanlines_94: 784549790
+      scanlines_95: 404111924
+      scanlines_96: 1611637493
+      scanlines_97: -1731587298
+      scanlines_98: -338909344
+      scanlines_99: 490516842
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: c98c909fa8ad81e4a8fe8d9fa88ef0c8
+timeCreated: 1490576896
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 89180
+  packageName: Survival Kit Pro
+  packageVersion: 1.1
+  assetPath: Assets/PBR Survival Kit/Shelter/Materials/Plank_mat.mat
+  uploadId: 197460

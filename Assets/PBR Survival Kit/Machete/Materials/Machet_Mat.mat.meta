@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ff4c18f95a6a7a646bfc475c38230bad
+timeCreated: 1502966572
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 89180
+  packageName: Survival Kit Pro
+  packageVersion: 1.1
+  assetPath: Assets/PBR Survival Kit/Machete/Materials/Machet_Mat.mat
+  uploadId: 197460

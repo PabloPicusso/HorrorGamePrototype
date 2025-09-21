@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e1a472a9d236fce4d8fcd71c14ea72ac
+timeCreated: 1493046388
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 89180
+  packageName: Survival Kit Pro
+  packageVersion: 1.1
+  assetPath: Assets/PBR Survival Kit/Compass/Prefab/Compass.prefab
+  uploadId: 197460

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e091150e1f07c774dadf2d6a55269da4
+timeCreated: 1487776479
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 89180
+  packageName: Survival Kit Pro
+  packageVersion: 1.1
+  assetPath: Assets/PBR Survival Kit/Pickaxe/Materials/Pickaxe_mat.mat
+  uploadId: 197460

@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: c709ff2a43c506548b27bbacdfcd0686
+timeCreated: 1513702519
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 107507
+  packageName: Horror Axe
+  packageVersion: 1.1
+  assetPath: Assets/Horror_Axe/Materials/M_HRR_Axe_02.mat
+  uploadId: 230397

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: bb2be3b97f4c0df4e91d98770e831139
+timeCreated: 1489366925
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 89180
+  packageName: Survival Kit Pro
+  packageVersion: 1.1
+  assetPath: Assets/PBR Survival Kit/Boat/Materials/Boat_mat.mat
+  uploadId: 197460

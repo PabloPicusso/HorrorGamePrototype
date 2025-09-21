@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: bc69592425a08c047baa142248cae55d
+timeCreated: 1492913843
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 89180
+  packageName: Survival Kit Pro
+  packageVersion: 1.1
+  assetPath: Assets/PBR Survival Kit/Bullet/Prefab/Bullet_shell.prefab
+  uploadId: 197460

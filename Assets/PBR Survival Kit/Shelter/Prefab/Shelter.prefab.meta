@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 0d05c55e1d3e0064c8d8e3a2f0a59468
+timeCreated: 1492883909
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 89180
+  packageName: Survival Kit Pro
+  packageVersion: 1.1
+  assetPath: Assets/PBR Survival Kit/Shelter/Prefab/Shelter.prefab
+  uploadId: 197460

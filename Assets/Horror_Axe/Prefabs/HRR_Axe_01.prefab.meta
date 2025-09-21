@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 1c3945bda9991a64bb0a8ee9ea89a37c
+timeCreated: 1518869847
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 107507
+  packageName: Horror Axe
+  packageVersion: 1.1
+  assetPath: Assets/Horror_Axe/Prefabs/HRR_Axe_01.prefab
+  uploadId: 230397

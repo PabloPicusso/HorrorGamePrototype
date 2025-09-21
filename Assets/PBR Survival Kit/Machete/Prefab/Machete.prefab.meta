@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 260c938ceb000304db5ebb15dcccbb61
+timeCreated: 1502968134
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 89180
+  packageName: Survival Kit Pro
+  packageVersion: 1.1
+  assetPath: Assets/PBR Survival Kit/Machete/Prefab/Machete.prefab
+  uploadId: 197460

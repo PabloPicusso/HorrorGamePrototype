@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 841ba4295f79ed645851d919b3b27877
+timeCreated: 1491567694
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 89180
+  packageName: Survival Kit Pro
+  packageVersion: 1.1
+  assetPath: Assets/PBR Survival Kit/Bear_Trap/Materials/Bear_Trap_mat.mat
+  uploadId: 197460

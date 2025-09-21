@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: e87131a2305795441aafd90ef7f9de61
+timeCreated: 1494078769
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 89180
+  packageName: Survival Kit Pro
+  packageVersion: 1.1
+  assetPath: Assets/PBR Survival Kit/Demo Scene/MoveCamera.cs
+  uploadId: 197460

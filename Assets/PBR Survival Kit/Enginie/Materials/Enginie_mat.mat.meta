@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 8deb4bb904aecbc40adbda124469f4ef
+timeCreated: 1489459403
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 89180
+  packageName: Survival Kit Pro
+  packageVersion: 1.1
+  assetPath: Assets/PBR Survival Kit/Enginie/Materials/Enginie_mat.mat
+  uploadId: 197460

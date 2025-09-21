@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: d9ef8c24f5cbe294f9b4b2a6959c4571
+timeCreated: 1487776880
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 89180
+  packageName: Survival Kit Pro
+  packageVersion: 1.1
+  assetPath: Assets/PBR Survival Kit/Pickaxe/Prefabs/Pickaxe.prefab
+  uploadId: 197460

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f4a991e2fca8c554da0ef7fd6e889d0d
+timeCreated: 1492188881
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 89180
+  packageName: Survival Kit Pro
+  packageVersion: 1.1
+  assetPath: Assets/PBR Survival Kit/rifle/Materials/Trigger_mat.mat
+  uploadId: 197460

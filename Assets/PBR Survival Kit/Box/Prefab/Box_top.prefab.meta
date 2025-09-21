@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 47d1e7520f7762a41bf9fc06060d41c1
+timeCreated: 1490374251
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 89180
+  packageName: Survival Kit Pro
+  packageVersion: 1.1
+  assetPath: Assets/PBR Survival Kit/Box/Prefab/Box_top.prefab
+  uploadId: 197460

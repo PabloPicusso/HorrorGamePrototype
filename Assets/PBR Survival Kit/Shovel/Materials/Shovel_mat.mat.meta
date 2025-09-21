@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 6348ac3e84a8d4b4ea5b61f71cbccc78
+timeCreated: 1488376805
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 89180
+  packageName: Survival Kit Pro
+  packageVersion: 1.1
+  assetPath: Assets/PBR Survival Kit/Shovel/Materials/Shovel_mat.mat
+  uploadId: 197460

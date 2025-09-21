@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: eaeeab91779403245a3fdd9fa0f95d16
+timeCreated: 1490063511
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 89180
+  packageName: Survival Kit Pro
+  packageVersion: 1.1
+  assetPath: Assets/PBR Survival Kit/Demo Scene/sky.mat
+  uploadId: 197460

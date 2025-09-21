@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 05a27b10ad7cece489968565ca221995
+timeCreated: 1491939396
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 89180
+  packageName: Survival Kit Pro
+  packageVersion: 1.1
+  assetPath: Assets/PBR Survival Kit/Compass/Materials/Point_mat.mat
+  uploadId: 197460

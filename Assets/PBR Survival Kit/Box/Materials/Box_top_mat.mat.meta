@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: cecd1577c41301a469e2364eebd4acb9
+timeCreated: 1490374144
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 89180
+  packageName: Survival Kit Pro
+  packageVersion: 1.1
+  assetPath: Assets/PBR Survival Kit/Box/Materials/Box_top_mat.mat
+  uploadId: 197460

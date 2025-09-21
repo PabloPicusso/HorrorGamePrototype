@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a0e40d20603fbb24cb4ca870dae14287
+timeCreated: 1488242291
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 89180
+  packageName: Survival Kit Pro
+  packageVersion: 1.1
+  assetPath: Assets/PBR Survival Kit/bucket/Materials/Bucket_mat.mat
+  uploadId: 197460

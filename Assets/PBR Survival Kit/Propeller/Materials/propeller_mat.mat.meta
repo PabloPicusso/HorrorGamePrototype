@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b67ed1bfd7e66b34caa5c01a4f8615a8
+timeCreated: 1489461859
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 89180
+  packageName: Survival Kit Pro
+  packageVersion: 1.1
+  assetPath: Assets/PBR Survival Kit/Propeller/Materials/propeller_mat.mat
+  uploadId: 197460
